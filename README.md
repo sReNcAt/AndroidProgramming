@@ -48,12 +48,12 @@
 2. 둘
 3. 삼
 ```
-숫자와 . 으로 연결된 조합을 쓴다
+숫자와 . 으로 연결된 조합을 쓴다.
 1. 하나
 2. 둘
 3. 삼
 
-여담이지만 작년에 깃허브를 처음 쓸대도 대두되었던 이야기지만 숫자를 중간에 다르게 해도 내림차순으로 된다
+여담이지만 작년에 깃허브를 처음 쓸대도 대두되었던 이야기지만 숫자를 중간에 다르게 해도 내림차순으로 된다.
 ```
 1. 하나
 3. 삼
@@ -69,7 +69,7 @@
     + 둘
         - 삼
 ```
-위와같은 기호로 쓰인다
+위와같은 기호로 쓰인다.
 
 * 하나
     + 둘
@@ -82,7 +82,7 @@
 - - -
 -----
 ```
-모두 동일하다
+모두 동일하다.
 * * *
 ***
 *****
@@ -91,15 +91,15 @@
 
 ### 5. 하이퍼링크
 ```
-syntax: [보여질이름](링크주소)
-바로가기: [서동준의 Github](https://github.com/sReNcAt)
-<주소>
-<http://https://github.com/sReNcAt>
-<srencat@naver.com>
+syntax: [보여질이름](링크주소).
+바로가기: [서동준의 Github](https://github.com/sReNcAt).
+<주소>.
+<http://https://github.com/sReNcAt>.
+<srencat@naver.com>.
 ```
-바로가기: [서동준의 Github](https://github.com/sReNcAt)
-<http://https://github.com/sReNcAt>
-<srencat@naver.com>
+바로가기: [서동준의 Github](https://github.com/sReNcAt).
+<http://https://github.com/sReNcAt>.
+<srencat@naver.com>.
 
 ### 6. 폰트 조절
 ```
@@ -110,20 +110,20 @@ __두개의 언더바__
 ++밑줄++
 ~~중앙 가로줄~~
 ```
-아스테리스크(별), 언더바 하나는 약간 bold체? 해야하나 italy체? 처럼 변하고
-두개는 강조가 된다 (흡사 <strong></strong>)
-*하나의 별*
-_하나의 언더바_
-**두개의 별**
-__두개의 언더바__
-++밑줄++
-~~중앙 가로줄~~
+아스테리스크(별), 언더바 하나는 약간 bold체? 해야하나 italy체? 처럼 변하고.
+두개는 강조가 된다 (흡사 <strong></strong>).
+*하나의 별*.
+_하나의 언더바_.
+**두개의 별**.
+__두개의 언더바__.
+++밑줄++.
+~~중앙 가로줄~~.
 
 ### 7.이미지
 ```
-![Alt text](http://www.nyan.cat/cats/original.gif "냥캣")
+![Alt text](http://www.nyan.cat/cats/original.gif "냥캣").
 ```
-라는 문법이 존재하나 특이하게 width와 height 조절이 불가능해 보통 <img> 태그를 주료쓴다
+라는 문법이 존재하나 특이하게 width와 height 조절이 불가능해 보통 <img> 태그를 주료쓴다.
 
 ![Alt text](http://www.nyan.cat/cats/original.gif "냥캣")
 
