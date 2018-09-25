@@ -91,33 +91,51 @@
 
 ### 5. 하이퍼링크
 ```
-syntax: [보여질이름](링크주소).
-바로가기: [서동준의 Github](https://github.com/sReNcAt).
-<주소>.
-<http://https://github.com/sReNcAt>.
-<srencat@naver.com>.
+syntax: [보여질이름](링크주소)
+
+바로가기: [서동준의 Github](https://github.com/sReNcAt)
+
+<주소>
+
+<http://https://github.com/sReNcAt>
+
+<srencat@naver.com>
 ```
-바로가기: [서동준의 Github](https://github.com/sReNcAt).
-<http://https://github.com/sReNcAt>.
-<srencat@naver.com>.
+바로가기: [서동준의 Github](https://github.com/sReNcAt)
+
+<http://https://github.com/sReNcAt>
+
+<srencat@naver.com>
 
 ### 6. 폰트 조절
 ```
 *하나의 별*
+
 _하나의 언더바_
+
 **두개의 별**
+
 __두개의 언더바__
+
 ++밑줄++
+
 ~~중앙 가로줄~~
 ```
-아스테리스크(별), 언더바 하나는 약간 bold체? 해야하나 italy체? 처럼 변하고.
-두개는 강조가 된다 (흡사 <strong></strong>).
-*하나의 별*.
-_하나의 언더바_.
-**두개의 별**.
-__두개의 언더바__.
-++밑줄++.
-~~중앙 가로줄~~.
+아스테리스크(별), 언더바 하나는 약간 bold체? 해야하나 italy체? 처럼 변하고
+
+두개는 강조가 된다 (흡사 <strong></strong>)
+
+*하나의 별*
+
+_하나의 언더바_
+
+**두개의 별**
+
+__두개의 언더바__
+
+++밑줄++
+
+~~중앙 가로줄~~
 
 ### 7.이미지
 ```
