@@ -1,4 +1,4 @@
-AndroidPrograming인데 m을 두개쓰는 오타가 발생하였지만 이미 링크를 보내서 
+AndroidPrograming인데 m을 두개쓰는 오타가 발생하였지만 이미 링크를 보내서 그대 repo 유지합니다
 # Github 마크다운 정리 및 git 사용법
 
 # Github 마크다운
